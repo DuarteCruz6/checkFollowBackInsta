@@ -60,4 +60,4 @@ The code now created a file named peopleWhoDontFollowYouBack on the checkFollowB
 [photo10]: https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo10.JPG "Select All time"
 [photo11]: https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo11.JPG "Click on Format"
 [photo12]: https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo12.JPG "How it should look like"
-[photo13]: https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo13.JPG "Three lines you need to click on"
+[photo13]: https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo13.png "Three lines you need to click on"
