@@ -10,36 +10,47 @@ To start this program, first of all you need to clone this repository to a folde
 #### Step 1: Go to your profile and click on these three lines. 
  
  <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo1.JPG" alt="Click on these three lines" width="50%"/>
+ 
 #### Step 2: Open your account center. 
   
  <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo2.JPG" alt="Click on Accounts Center" width="50%"/>
+ 
 #### Step 3: Click in "Your information and permissions". 
  
  <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo3.JPG" alt="Click on Your information and permissions" width="50%"/>
+ 
 #### Step 4: Press "Download your information". 
   
  <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo4.JPG" alt="Click on Download your information" width="50%"/>
+ 
 #### Step 5: Press "Download or transfer information". 
 
 <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo5.JPG" alt="Click on Download or transfer information" width="50%"/>
+
 #### Step 6: Click "Some of your information", since we only need the files containing who follows you and who you follow. 
   
   <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo6.JPG" alt="Click on Some of your information" width="50%"/>
+  
 #### Step 7: Scroll down until you see the "Connections" sections and go ahead and tick "Followers and following". After ticking, press "Next". 
   
 <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo7.JPG" alt="Scroll down and select Followers and following" width="50%"/>
+
 #### Step 8: Select what option you prefer. For this tutorial I selected "Download to device", but either are corrected and will work 
  
 <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo8.JPG" alt="Choose whatever option you desired. I choose Download to device" width="50%"/>
+
 #### Step 9: Click on "Date range". 
 
 <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo9.JPG" alt="Click on Date range" width="50%"/>
+
 #### Step 10: Select "All time". If you select another option, the files won't contain your oldest followers and accounts you have been following for a while. Ater selecting, press "Save". 
  
  <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo10.JPG" alt="Select All time" width="50%"/>
+ 
 #### Step 11: Click "Format". After clicking, select "JSON". 
  
  <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo11.JPG" alt="Click on Format" width="50%"/>
+ 
 #### Step 12: If your screen looks like this, you are good to go. Check if your "Notify" e-mail is correct, if so, click "Create files". You will receive an email from Instagram-Meta containing a link to download your files. 
 
 <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo12.JPG" alt="How it should look like" width="50%"/>
