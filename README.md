@@ -45,7 +45,7 @@ To start this program, first of all you need to clone this repository to a folde
 
 #### Step 10: Select "All time". If you select another option, the files won't contain your oldest followers and accounts you have been following for a while. Ater selecting, press "Save". 
  
- <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo10.JPG" alt="Select All time" width="50%"/>
+ <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo10.PNG" alt="Select All time" width="50%"/>
  
 #### Step 11: Click "Format". After clicking, select "JSON". 
  
