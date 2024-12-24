@@ -59,7 +59,7 @@ To start this program, first of all you need to clone this repository to a folde
 #### STEP 14: Save the downloaded file in the "checkFollowBack" folder. This folder now must contain the file code.py as well as the .zip file.
 #### STEP 15: Unzip the file. You can delete the .zip file if your OS doesn't delete it automatically. Your checkFollowBack folder now should have the code.py file, as well as the "connections" folder inside it. If it looks like this, you are good to go. 
 
-<img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo13.png" alt="Three lines you need to click on" width="50%" height="650" />
+<img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo13.png" alt="Three lines you need to click on" width="50%" height="950" />
 
 ### RUNNING THE PROGRAM
 #### STEP 1: Open your terminal. If you are on a MacOS, open your Apps on Finder and search for Terminal. If you are in Windowns, type cmd on your search bar and click enter and "Command Prompt" shows up.
