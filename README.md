@@ -9,7 +9,7 @@ Instagram now lets you download your account's information in a .json file. Ther
 To start this program, first of all you need to clone this repository to a folder. After that, you just need download the files containing your information.
 #### Step 1: Go to your profile and click on these three lines. 
  
- <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo1.JPG" alt="Click on these three lines" width="50%" height="100"/>
+ <img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo1.JPG" alt="Click on these three lines" width="50%" height="1000"/>
  
 #### Step 2: Open your account center. 
   
