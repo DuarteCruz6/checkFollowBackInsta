@@ -64,5 +64,5 @@ To start this program, first of all you need to clone this repository to a folde
 ### RUNNING THE PROGRAM
 #### STEP 1: Open your terminal. If you are on a MacOS, open your Apps on Finder and search for Terminal. If you are in Windowns, type cmd on your search bar and click enter and "Command Prompt" shows up.
 #### STEP 2: Write "cd " on the terminal and drag and drop the checkFollowBackInsta folder to your terminal. When dropped, click Enter.
-#### STEP 3: Write "python ./code.py" on your terminal and click enter. If the Terminal says permission denied, then write this command "chmod +x code.py" and try again. If nothing shows up in your terminal, then everything went well. The code now created a file named peopleWhoDontFollowYouBack on the checkFollowBack folder.
+#### STEP 3: Write "python ./code.py" on your terminal and click enter. If the Terminal says permission denied, then write this command "chmod +x code.py" and try again. If nothing shows up in your terminal, then everything went well.
 #### Step 4: The code now created a file named peopleWhoDontFollowYouBack on the checkFollowBack folder. This folder contains every username+link of the people who do not follow you back.
