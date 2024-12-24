@@ -37,7 +37,7 @@ To start this program, first of all you need to clone this repository to a folde
 
 #### Step 8: Select what option you prefer. For this tutorial I selected "Download to device", but either are corrected and will work 
  
-<img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo8.JPG" alt="Choose whatever option you desired. I choose Download to device" width="50%"/>
+<img src="https://github.com/DuarteCruz6/checkFollowBackInsta/blob/main/photos/photo8.PNG" alt="Choose whatever option you desired. I choose Download to device" width="50%"/>
 
 #### Step 9: Click on "Date range". 
 
